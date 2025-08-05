@@ -55,7 +55,7 @@ this is a wrong text
 
 You can also use the terminal:
 ```bash
-code --install-extension keyboard-switcher-0.0.1.vsix
+code --install-extension keyboard-switcher-0.0.3.vsix
 ```
 
 ---
